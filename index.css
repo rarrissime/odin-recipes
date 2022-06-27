@@ -1,0 +1,82 @@
+.a {
+    float: left;
+    margin-right: 150px;
+}
+.text_right {
+    text-align: right;
+    text-align: justify;
+}
+.li_left {
+    float: left;
+    margin-left: 140px;
+    font-size: 20px;
+}
+.bullet {
+    margin-bottom: 300px;
+}
+ol {
+    margin-left: 130px;
+    margin-right: 120px;
+    font-size: 20px;
+}
+.ingredients {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.li_right {
+    float: right;
+    margin-right: 120px;
+    font-size: 20px;
+}
+.lasagna {
+    font-size: 30px;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#odin {
+    text-align: center;
+}
+.text_title {
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+.button {
+    border-radius: 0%;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+    padding: 15px 30px;
+    background-color: hsl(0, 100%, 70%);
+}
+.back {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0%;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+    padding: 15px 30px;
+    background-color: hsl(0, 100%, 70%);
+}
+.b {
+    float: right;
+    margin-left: 150px;
+}
+.text_left {
+    text-align: left;
+    text-align: justify;
+}
+.pretty {
+    margin: 15px 32px;
+    margin-top: 70px;
+}
+body {
+    background-color: #f5d0c1;
+}
